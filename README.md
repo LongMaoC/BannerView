@@ -60,7 +60,7 @@
 ```
 和listview类似，需要些个适配器
 ```java
-     class LoopPhotoAdapter implements BannerBaseAdapter {
+     class LoopPhotoAdapter implements IBannerBaseAdapter {
         Context context;
         List<BannerEntity> data;
 
