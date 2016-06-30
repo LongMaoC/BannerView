@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_6f40a801c2c4cf8cd341182a891fa72c6abe22a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.1\8453703164e230cce848b387f6b8c06f10a22d59\picasso-2.5.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8453703164e230cce848b387f6b8c06f10a22d59">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\picasso-2.5.1_e31b482a20a35b1b2fa9b2a500f20bf45f48818c.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_0d086217c2426c2453817325f2270b97d1a78f8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_2e614c6379bdd4f15b8a66ff97869ebf24c59d4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_820fe2b7f04001e6b96299c77bf33dabf64fea87.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.github.LongMaoC\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f09da351c83723ea1cf86f1d8e3ec804fc14350a">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\com.github.LongMaoC-library-unspecified_ef2e9cfef9cce31f8da2bf8decd3c8ed0bc5d905.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_a8838cdb3ecd5f3d28731dfeda2d744f1bd051fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_77f7261d6ec92aff62c91d3488a6fde0c54cba26.jar" />
+    </item>
+    <item
+        jar="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_23b26ebb35c2c329ee165f9bab133d712e89e227.jar" />
+    </item>
+    <item
+        jar="D:\androidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\CXY\Desktop\BannerView\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_32adf1a9e5a2c0c194b3db6f201aa3eaa3f7865c.jar" />
+    </item>
+
+</items>

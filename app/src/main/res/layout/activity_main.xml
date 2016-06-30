@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.cxy.bannerview.MainActivity">
+    <com.cxy.library.view.BannerView
+        android:id="@+id/id_bannerView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        app:indicator_border_distance="16dp"
+        app:indicator_bottom_distance="2dp"
+        app:indicator_color_no_select="#478BAD"
+        app:indicator_color_select="#57B5E1"
+        app:indicator_radii="8dp"
+        app:indicator_positions="right"
+        app:loop_time="2000"
+        app:scroll_time="2000"
+        />
+    <!--<com.cxy.library.view.LoopPhotoView-->
+        <!--android:id="@+id/id_loopPhotoView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="150dp"-->
+        <!--app:indicator_border_distance="16dp"-->
+        <!--app:indicator_bottom_distance="2dp"-->
+        <!--app:indicator_color_no_select="#478BAD"-->
+        <!--app:indicator_color_select="#57B5E1"-->
+        <!--app:indicator_radii="8dp"-->
+        <!--app:indicator_positions="right"-->
+        <!--app:loop_time="2000"-->
+        <!--app:scroll_time="2000"-->
+        <!--/>-->
+
+</LinearLayout>

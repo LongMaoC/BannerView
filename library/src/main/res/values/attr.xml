@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--指示器颜色-->
+    <attr name="indicator_color_select" format="color"/>
+    <attr name="indicator_color_no_select" format="color"/>
+    <!--指示器半径-->
+    <attr name="indicator_radii" format="dimension"/>
+
+    <!--指示器位置-->
+    <attr name="indicator_positions">
+        <enum name="left" value="0" />
+        <enum name="center" value="1" />
+        <enum name="right" value="2" />
+    </attr>
+
+    <attr name="loop_time" format="integer"/>
+    <attr name="scroll_time" format="integer"/>
+    <attr name="indicator_border_distance" format="dimension"/>
+    <attr name="indicator_bottom_distance" format="dimension"/>
+
+
+
+    <declare-styleable name="BannerView">
+        <attr name="indicator_color_select" />
+        <attr name="indicator_color_no_select" />
+        <attr name="indicator_radii" />
+        <attr name="indicator_positions" />
+        <attr name="loop_time" />
+        <attr name="scroll_time" />
+        <attr name="indicator_bottom_distance" />
+        <attr name="indicator_border_distance" />
+
+    </declare-styleable>
+
+</resources>
