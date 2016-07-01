@@ -1,5 +1,6 @@
 
 #BannerView
+ ![image](https://github.com/LongMaoC/BannerView/blob/master/gif/bannerview.gif)
 ##BannerView是什么?
 一个可以轮播图可以控制它的
 
